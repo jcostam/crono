@@ -65,7 +65,6 @@ public class test {
 		test pv=new test();
 		long tiempoInicio = System.currentTimeMillis();
 
-			System.out.println("Hola mundo");	
 		pv.cargar();
 		System.out.println("\nVector desordenado:");
 		//pv.imprimir();
